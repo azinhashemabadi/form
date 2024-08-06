@@ -1,0 +1,30 @@
+.box {
+  position: absolute;
+  width: 50rem;
+  height: 60rem;
+  font-size: 18px;
+  font-size: 18px;
+  border: 0.5px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 3%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 #ebeaea, 0 6px 20px 0 #c1bfbf;
+  padding: 2%;
+  margin: 5%;
+}
+.title{
+  color: #198754;
+  text-align: center;
+}
+/* @media screen and (max-width: 600px){
+  .box {
+    width: 90%;
+    padding: 5%;
+    margin: 2%;
+    min-height: 100vh;
+  }
+} */
+.app{
+  justify-content: center;
+  width: 100%;
+}

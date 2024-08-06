@@ -1,0 +1,10 @@
+.title-subject h3{
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+.subject{
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 5rem;
+    justify-content: center; 
+}
